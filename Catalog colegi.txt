@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Agenda studenti</title>
+<link rel="stylesheet" type="text/css" href="catalog_styles.css">
+</head> 
+
+<body>
+<img id=logoCat src=all_catalog.jpg">
+	<h1 id="titluCat">Catalog colegi</h1>
+	<ul>
+		<li><a id="linkCat" href="Terhes Andrei.html"> Terhes Andrei</li>
+		<li><a id="linkCat" href="Onita Andrei.html"> Onita Andrei </li>
+		<li><a id="linkCat" href="Smuliac Evelin.html"> Smuliac Evelin </li>
+		<li><a id="linkCat" href="Alexandra Mohanu.html">Alexandra Mohanu </li>
+	</ul>
+</body>
+</html>
+<link rel="stylesheet" type="text/css" href="catalog_styles.css">
