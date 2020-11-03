@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>profilul meu</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<body>
+<h1 class="w3-panel w3-leftbar w3-line w3-xxlarge w3-serif">Profil</h1>
+<div class="w3-panel w3-leftbar w3-sand w3-large w3-serif">
+<h2>Datele de identificare ale persoanei</h2>
+<p1>Raica Silviu-Paul</p1>
+<h2>Date de contact</h2>
+<p2>raica.paul.7979@gmail.com</p2>
+</div>
+<h2>Poza</h2>
+<img class="w3-round w3-border w3-padding w3-opacity w3-hover-sepia" src="poza01.jpg"width=250 height=400>
+<h2>Citat</h2>
+<p>"Natura ne aseamăna. Educaţia ne deosebeşte". – Confucius</p>
+<h2>Discipline</h2>
+<p><ul> <li> Programarea calculatoarelor-Algoritmi an 1 sem 2 <a href='https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3111.pdf'> link disciplina 1</a></li>
+        <li> Telefonie an3 sem 2                              <a href= 'https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3138.pdf'> link disciplina 2</a></li>
+        <li> Metode numerice an 2 sem 1                       <a href= https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3123.pdf> link disciplina 3</a></li>
+        <li> Radiocomunicatii celulare an 4 sem 1             <a href= https://etti.utcluj.ro/files/FiseDisciplina/TstRo/EL3148.10.pdf> link disciplina 4</a></li></ul></p>
+<h2>Hobby-uri/activitati reprezentative</h2>
+<ul class="w3-ul"><li>plimbări cu bicicleta</li>  <li> să călătoresc </li>  <li>football</li></ul>
+<h2>Educatie</h2>
+<table class="w3-table">
+	<tr> <td>UTCN</td> <td>ETTI</td> <td>2020-2024</td> <td>Student</td> </tr>
+	<tr> <td>Liceul "Corneliu Medrea" Zlatna</td> <td>Stiinte ale naturii</td><td>2016-2020</td><td>Elev</td></tr>
+</table>
+</body>
+</html> 
